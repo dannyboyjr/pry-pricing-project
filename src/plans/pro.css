@@ -1,0 +1,70 @@
+.pricingAndImplmentation{
+
+    display: flex;
+    justify-content: space-around;
+    background-color: #F7F7FF;
+
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 25px;
+    width: 400px;
+    min-height: 447px;
+
+
+}
+
+.cardDetails{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.planName{
+font-size: 30px;
+margin-bottom: -10px;
+}
+
+.costOfPry{
+
+    font-size: 20px;
+}
+
+h6{
+    margin-top: -15px;
+    font-weight: normal;;
+}
+
+p{
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
+
+.implmentationCard {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 400px;
+
+
+}
+
+
+li{
+    list-style-type: none;
+    margin: 10px;
+}
+
+#includes{
+    display: flex;
+    justify-content: center;
+}
