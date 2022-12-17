@@ -17,7 +17,7 @@ const Custom = ({price}) => {
             <p>Models Tab: Unlimited</p>
             <p>Dashboards: Unlimited</p>
             <p>Scenario Planning: Unlimited</p>
-            <p>Ongoing Implmentation</p>
+            <p>Ongoing Implementation</p>
         </div>
         </div>
     )

@@ -48,7 +48,7 @@ const ImplementationCard = ({price}) => {
                 <p>Expense Budgets</p>
                 <p>Hiring Plan</p>
                 <p>Multiple Dashboards</p>
-                <p>Ongoing model adjustments</p>
+                <p>Ongoing Model Adjustments</p>
                 <p>Multiple Scenarios</p>
 
             </div>
