@@ -15,8 +15,8 @@ const Slider = () => {
         const costOfPry = expenses * .001
         if (expenses < 74999) {
             setPrice(50)
-        } else if (expenses < 200000 && expenses > 74999) {
-            setPrice(200)
+        } else if (expenses < 150000 && expenses > 74999) {
+            setPrice(150)
         }
 
         else {
