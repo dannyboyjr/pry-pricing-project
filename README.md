@@ -1,4 +1,8 @@
-##Created My own pry.co/pricing page
+
+Sure! Here's an updated version with improved styling:
+
+Alternative Pry.co Pricing Page
+While working at Brex, I was responsible for selling Pry.co as an AE (account executive). I became frustrated with our pricing page and decided to build my own to help prospects better understand our pricing model. You can check out my alternative pricing page at https://pry.co/pricing to see how it compares to the official version.
 
 
 ![Screenshot 2023-05-09 at 5 03 07 PM](https://github.com/dannyboyjr/pry-pricing-project/assets/18405590/3052a786-0a11-42b7-aa18-6b35deb94653)
