@@ -1,7 +1,10 @@
 <h2 style="font-weight: bold;">Alternative Pry.co Pricing Page</h2>
 
-<p>official pricing page for comparison 
-  <a href="https://pry.co/pricing">https://pry.co/pricing</a>  </p>
+<p>
+  My pricing page
+  <a href="https://vercel.com/dannyboyjr/pry-pricing-project-5fe6 </p>
+  official pricing page for comparison 
+  <a href="https://pry.co/pricing">https://pry.co/pricing</a>  
 
 
 Screen shots of my pricing page below. This was built in React and has a slider bar. If customers spent under $75k a month, Pry was $50. If it was over $75k, Pry started at $150 per month but became a variable cost after their spend surpassed $150k a month. I could easily slide the bar to their spend so they could quickly see what the cost of Pry would be. Feel free to download the project, run `npm install` and then `npm start` to check it out for yourself!
