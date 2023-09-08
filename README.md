@@ -1,8 +1,9 @@
 <h2 style="font-weight: bold;">Alternative Pry.co Pricing Page</h2>
 
 <p>
+  
   My pricing page
-  <a href="https://vercel.com/dannyboyjr/pry-pricing-project-5fe6 </p>
+  <a href="https://vercel.com/dannyboyjr/pry-pricing-project-5fe6 </a>
   official pricing page for comparison 
   <a href="https://pry.co/pricing">https://pry.co/pricing</a>  
 
