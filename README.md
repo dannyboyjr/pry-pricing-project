@@ -1,9 +1,6 @@
 <h2 style="font-weight: bold;">Alternative Pry.co Pricing Page</h2>
 
-<p>While working at Brex, I was responsible for selling Pry.co as an AE (account executive). I became frustrated with our pricing page and decided to build my own to help prospects better understand our pricing model
-  
-  
-  official pricing page for comparison 
+<p>official pricing page for comparison 
   <a href="https://pry.co/pricing">https://pry.co/pricing</a>  </p>
 
 
