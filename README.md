@@ -3,8 +3,9 @@
 <p>
   
   My pricing page
-  <a href="https://vercel.com/dannyboyjr/pry-pricing-project-5fe6/DeqJbjjSF3BAGmgFy4Jfo1rfDn87" </a>
+  <a href=https://pry-pricing-project-5fe6-n630nyzmr-dannyboyjr.vercel.app/ </a>
   official pricing page for comparison 
+  <br>
   <a href=https://pry.co/pricing">https://pry.co/pricing</a>  
 
 
