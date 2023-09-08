@@ -4,8 +4,9 @@
   
   My pricing page
   <a href=https://pry-pricing-project-5fe6-n630nyzmr-dannyboyjr.vercel.app/ </a>
-  official pricing page for comparison 
   <br/>
+  <br/>
+  official pricing page for comparison 
   <a href=https://pry.co/pricing">https://pry.co/pricing</a>  
 
 
